@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/Gastonm1/NodeServerTS/issues"
   },
-  "homepage": "https://github.com/Gastonm1/NodeServerTS#readme"
+  "homepage": "https://github.com/Gastonm1/NodeServerTS#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "@types/node-fetch": "^3.0.3",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "url-parse": "^1.5.3"
+  }
 }
